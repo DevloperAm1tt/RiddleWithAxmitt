@@ -1,0 +1,362 @@
+[
+    {
+        "question": "Aisa kya hai jo toot kar nahi tut sakta?",
+        "answer": "sapna",
+        "incorrectAnswers": ["dil", "rasta", "kagaz"]
+    },
+    {
+        "question": "Kaun sa janwar doodh deta hai aur ek hi saath 5 bacche deta hai?",
+        "answer": "bakri",
+        "incorrectAnswers": ["gai", "bhed", "bhains"]
+    },
+    {
+        "question": "Aisa kaunsa phool hai jo roz khilta hai aur roz so jata hai?",
+        "answer": "soorajmukhi",
+        "incorrectAnswers": ["genda", "gulab", "kamal"]
+    },
+    {
+        "question": "Pankha kaun chalata hai?",
+        "answer": "bijli",
+        "incorrectAnswers": ["aadmi", "hawaa", "motor"]
+    },
+    {
+        "question": "Kya cheez khane se pehle na maangi jati hai aur na di jati hai?",
+        "answer": "dawa",
+        "incorrectAnswers": ["roti", "paani", "chai"]
+    },
+    {
+        "question": "Kaunsa paani kabhi jamta nahi hai?",
+        "answer": "samundar",
+        "incorrectAnswers": ["nadi", "jheel", "taalab"]
+    },
+    {
+        "question": "Aisa kya hai jo peele rang ka hota hai aur aam ke sath hota hai?",
+        "answer": "gutli",
+        "incorrectAnswers": ["patta", "phool", "chaal"]
+    },
+    {
+        "question": "Aisa kya hai jo bina haath pair ke bhi chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["saanp", "patang", "ghadi"]
+    },
+    {
+        "question": "Aisa kya hai jo gir kar bhi tootta nahi?",
+        "answer": "dhoop",
+        "incorrectAnswers": ["paani", "patthar", "pankha"]
+    },
+    {
+        "question": "Kaunsi cheez khane ke baad nahi khaya jata?",
+        "answer": "patti",
+        "incorrectAnswers": ["chawal", "sabzi", "aam"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pair ke chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["patang", "ghadi", "billi"]
+    },
+    {
+        "question": "Aisa kya hai jo bina hawa ke chal sakta hai?",
+        "answer": "soch",
+        "incorrectAnswers": ["pankha", "car", "cycle"]
+    },
+    {
+        "question": "Aisa kaunsa pakshi hai jo kabhi udta nahi?",
+        "answer": "shutur",
+        "incorrectAnswers": ["kabutar", "kauwa", "mor"]
+    },
+    {
+        "question": "Aisa kya hai jo peene se jeene ki ummeed badh jati hai?",
+        "answer": "dawa",
+        "incorrectAnswers": ["paani", "chai", "juice"]
+    },
+    {
+        "question": "Aisa kaunsa mewa hai jo har dish mein use hota hai?",
+        "answer": "badam",
+        "incorrectAnswers": ["akhrot", "kaju", "pista"]
+    },
+    {
+        "question": "Kaunsa janwar paani mein bhi jee sakta hai aur zameen par bhi?",
+        "answer": "magarmach",
+        "incorrectAnswers": ["machhli", "kutta", "billi"]
+    },
+    {
+        "question": "Aisa kya hai jo bina paon ke bhi chal sakta hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["ped", "dhoop", "paheli"]
+    },
+    {
+        "question": "Kaun sa cheez bina dekhe bhi use kiya jata hai?",
+        "answer": "hawaa",
+        "incorrectAnswers": ["paani", "bijli", "dawa"]
+    },
+    {
+        "question": "Aisa kya hai jo bina bataye chalti hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["car", "cycle", "train"]
+    },
+    {
+        "question": "Aisa kya hai jo bina chehre ke bhi hota hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["photo", "ghadi", "patang"]
+    },
+    {
+        "question": "Aisa kya hai jo bina paer ke bhi daud sakta hai?",
+        "answer": "dil",
+        "incorrectAnswers": ["cycle", "ghoda", "car"]
+    },
+    {
+        "question": "Kaunsi cheez bina paisa ke milti hai?",
+        "answer": "pyaar",
+        "incorrectAnswers": ["paani", "dawa", "roti"]
+    },
+    {
+        "question": "Aisa kya hai jo bina dekh kar bhi use kiya jata hai?",
+        "answer": "hawaa",
+        "incorrectAnswers": ["paani", "bijli", "phone"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pao ke chal sakta hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["cycle", "scooter", "car"]
+    },
+    {
+        "question": "Aisa kaunsa ped hai jo saal bhar hara bhara rehta hai?",
+        "answer": "neem",
+        "incorrectAnswers": ["peepal", "banyan", "mango"]
+    },
+    {
+        "question": "Kaun sa rang sabse zyada dekha jata hai?",
+        "answer": "haraa",
+        "incorrectAnswers": ["laal", "neela", "peela"]
+    },
+    {
+        "question": "Aisa kaunsa ful hai jo khilta hai aur kabhi marta nahi?",
+        "answer": "gulab",
+        "incorrectAnswers": ["chameli", "genda", "kamal"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pao ke bhi chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["ghadi", "cycle", "car"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pao ke chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["ghadi", "cycle", "car"]
+    },
+    {
+        "question": "Aisa kya hai jo bina hawa ke chal sakta hai?",
+        "answer": "soch",
+        "incorrectAnswers": ["pankha", "car", "cycle"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pair ke chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["patang", "ghadi", "billi"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pao ke chal sakta hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["cycle", "scooter", "car"]
+    },
+    {
+        "question": "Aisa kya hai jo bina dekhe bhi use kiya jata hai?",
+        "answer": "hawaa",
+        "incorrectAnswers": ["paani", "bijli", "dawa"]
+    },
+    {
+        "question": "Aisa kya hai jo bina hawa ke chal sakta hai?",
+        "answer": "soch",
+        "incorrectAnswers": ["pankha", "car", "cycle"]
+    },
+    {
+        "question": "Aisa kya hai jo bina chehre ke bhi hota hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["photo", "ghadi", "patang"]
+    },
+    {
+        "question": "Aisa kya hai jo bina bataye chalti hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["car", "cycle", "train"]
+    },
+    {
+        "question": "Aisa kya hai jo bina paisa ke milta hai?",
+        "answer": "pyaar",
+        "incorrectAnswers": ["paani", "dawa", "roti"]
+    },
+    {
+        "question": "Aisa kya hai jo bina dekhe bhi use kiya jata hai?",
+        "answer": "hawaa",
+        "incorrectAnswers": ["paani", "bijli", "phone"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pao ke chal sakta hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["cycle", "scooter", "car"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pair ke bhi chal sakta hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["car", "cycle", "train"]
+    },
+    {
+        "question": "Kaun sa rang sabse zyada dekha jata hai?",
+        "answer": "haraa",
+        "incorrectAnswers": ["laal", "neela", "peela"]
+    },
+    {
+        "question": "Kaun sa janwar paani mein bhi jee sakta hai aur zameen par bhi?",
+        "answer": "magarmach",
+        "incorrectAnswers": ["machhli", "kutta", "billi"]
+    },
+    {
+        "question": "Aisa kaunsa ped hai jo saal bhar hara bhara rehta hai?",
+        "answer": "neem",
+        "incorrectAnswers": ["peepal", "banyan", "mango"]
+    },
+    {
+        "question": "Aisa kaunsa ful hai jo khilta hai aur kabhi marta nahi?",
+        "answer": "gulab",
+        "incorrectAnswers": ["chameli", "genda", "kamal"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pao ke chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["ghadi", "cycle", "car"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pair ke bhi chal sakta hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["car", "cycle", "train"]
+    },
+    {
+        "question": "Aisa kaunsa pakshi hai jo kabhi udta nahi?",
+        "answer": "shutur",
+        "incorrectAnswers": ["kabutar", "kauwa", "mor"]
+    },
+    {
+        "question": "Aisa kya hai jo bina paon ke bhi chal sakta hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["ped", "dhoop", "paheli"]
+    },
+    {
+        "question": "Kaun sa cheez bina paisa ke milti hai?",
+        "answer": "pyaar",
+        "incorrectAnswers": ["paani", "dawa", "roti"]
+    },
+    {
+        "question": "Aisa kaunsa phool hai jo roz khilta hai aur roz so jata hai?",
+        "answer": "soorajmukhi",
+        "incorrectAnswers": ["genda", "gulab", "kamal"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pair ke chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["patang", "ghadi", "billi"]
+    },
+    {
+        "question": "Aisa kya hai jo bina dekhe bhi use kiya jata hai?",
+        "answer": "hawaa",
+        "incorrectAnswers": ["paani", "bijli", "dawa"]
+    },
+    {
+        "question": "Aisa kya hai jo bina hawa ke chal sakta hai?",
+        "answer": "soch",
+        "incorrectAnswers": ["pankha", "car", "cycle"]
+    },
+    {
+        "question": "Aisa kya hai jo bina paon ke bhi chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["ghadi", "cycle", "car"]
+    },
+    {
+        "question": "Kaunsa janwar paani mein bhi jee sakta hai aur zameen par bhi?",
+        "answer": "magarmach",
+        "incorrectAnswers": ["machhli", "kutta", "billi"]
+    },
+    {
+        "question": "Aisa kaunsa ped hai jo saal bhar hara bhara rehta hai?",
+        "answer": "neem",
+        "incorrectAnswers": ["peepal", "banyan", "mango"]
+    },
+    {
+        "question": "Aisa kya hai jo bina hawa ke chal sakta hai?",
+        "answer": "soch",
+        "incorrectAnswers": ["pankha", "car", "cycle"]
+    },
+    {
+        "question": "Aisa kaunsa phool hai jo roz khilta hai aur roz so jata hai?",
+        "answer": "soorajmukhi",
+        "incorrectAnswers": ["genda", "gulab", "kamal"]
+    },
+    {
+        "question": "Kaun sa rang sabse zyada dekha jata hai?",
+        "answer": "haraa",
+        "incorrectAnswers": ["laal", "neela", "peela"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pao ke chal sakta hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["cycle", "scooter", "car"]
+    },
+    {
+        "question": "Aisa kya hai jo bina dekhe bhi use kiya jata hai?",
+        "answer": "hawaa",
+        "incorrectAnswers": ["paani", "bijli", "dawa"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pair ke bhi chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["patang", "ghadi", "billi"]
+    },
+    {
+        "question": "Aisa kya hai jo bina paisa ke milta hai?",
+        "answer": "pyaar",
+        "incorrectAnswers": ["paani", "dawa", "roti"]
+    },
+    {
+        "question": "Aisa kya hai jo bina pair ke chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["patang", "ghadi", "billi"]
+    },
+    {
+        "question": "Kaun sa janwar paani mein bhi jee sakta hai aur zameen par bhi?",
+        "answer": "magarmach",
+        "incorrectAnswers": ["machhli", "kutta", "billi"]
+    },
+    {
+        "question": "Aisa kaunsa phool hai jo roz khilta hai aur roz so jata hai?",
+        "answer": "soorajmukhi",
+        "incorrectAnswers": ["genda", "gulab", "kamal"]
+    },
+    {
+        "question": "Aisa kya hai jo bina paon ke chal sakta hai?",
+        "answer": "paheli",
+        "incorrectAnswers": ["patang", "ghadi", "billi"]
+    },
+    {
+        "question": "Aisa kaunsa phool hai jo khilta hai aur kabhi marta nahi?",
+        "answer": "gulab",
+        "incorrectAnswers": ["chameli", "genda", "kamal"]
+    },
+    {
+        "question": "Aisa kya hai jo bina bataye chalti hai?",
+        "answer": "ghadi",
+        "incorrectAnswers": ["car", "cycle", "train"]
+    },
+    {
+        "question": "Aisa kya hai jo bina dekhe bhi use kiya jata hai?",
+        "answer": "hawaa",
+        "incorrectAnswers": ["paani", "bijli", "phone"]
+    },
+    {
+        "question": "Aisa kya hai jo bina paisa ke milta hai?",
+        "answer": "pyaar",
+        "incorrectAnswers": ["paani", "dawa", "roti"]
+    },
+    {
+        "question": "Aisa kya hai jo bina hawa ke chal sakta hai?",
+        "answer": "soch",
+        "incorrectAnswers": ["pankha", "car", "cycle"]
+    }
+]
